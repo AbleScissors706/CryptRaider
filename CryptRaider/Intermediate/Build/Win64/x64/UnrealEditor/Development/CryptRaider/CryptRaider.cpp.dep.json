@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgspectrum - programming\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraider.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgspectrum - programming\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\cgspectrum - programming\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\cgspectrum - programming\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
